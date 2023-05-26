@@ -1,0 +1,15 @@
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\bin\Debug\net6.0\ControleMedicamentos.ConsoleApp.exe
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\bin\Debug\net6.0\ControleMedicamentos.ConsoleApp.deps.json
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\bin\Debug\net6.0\ControleMedicamentos.ConsoleApp.runtimeconfig.json
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\bin\Debug\net6.0\ControleMedicamentos.ConsoleApp.dll
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\bin\Debug\net6.0\ControleMedicamentos.ConsoleApp.pdb
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.AssemblyInfo.cs
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.dll
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\refint\ControleMedicamentos.ConsoleApp.dll
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.pdb
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.genruntimeconfig.cache
+C:\Users\Fabian\Source\Repos\ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ref\ControleMedicamentos.ConsoleApp.dll
